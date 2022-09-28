@@ -1,0 +1,41 @@
+       body {
+         width: 1340px;
+         background-color: lightgray;
+      }
+       header {
+         border-bottom: 3px ridge gray;
+      }
+      section {
+         display: inline-block;
+         width:255px;
+         border-right: 3px ridge gray;
+         vertical-align: top;
+      }
+       aside {
+         display: inline-block;
+         width: 1050px;
+         padding:0 0 0 10px;
+         font-family: 'Times New Roman', Times, serif;
+         font-size: 20px;
+      }
+       h1 {
+         text-shadow: 2px 2px 5px black;
+         font-size: 40px;
+         font-family: 'El Messiri', sans-serif;
+         padding-left: 20px;
+      }
+       nav {
+         font-size: 20px;
+         font-family: 'El Messiri', sans-serif;
+      }
+       a {
+         text-align: left;
+         display: block;
+         width: 225px;
+         color:black;
+         background-color: gray;
+         text-decoration: none;
+         line-height: 2em;
+         margin: 2px;
+         padding-left: 20px;
+      }
